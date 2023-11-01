@@ -1,7 +1,8 @@
 # Some_Digital_Logic
 implementing some digital logic circuits and ideas for fun! &lt;and knowledge ofc>
 ## The content is only organized by the date, oldest first.
-##### Table of Contents  
+
+### Table of Contents  
 [4-Bit Synchronous Counter using JK flip flops](#4bitcounter)  
 [5-Bit Ring counter using D flip flops](#ringcounter)
 [a basic CUFE assignment using logic gates to implement a function.](#hw1)
