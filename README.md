@@ -11,7 +11,7 @@ implementing some digital logic circuits and ideas for fun! &lt;and knowledge of
 
 [4*4 memory !](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#44-memory-)
 
-[Gray-counter?!](https://github.com/Mahmoussam/Some_Digital_Logic/edit/master/README.md#gray-counter)
+[Gray-counter?!](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#gray-counter)
 
 
 ## 4-Bit Synchronous Counter using JK flip flops
