@@ -1,5 +1,17 @@
 # Some_Digital_Logic
 implementing some digital logic circuits and ideas for fun! &lt;and knowledge ofc>
+## Table of content so far:
+[[4-Bit Synchronous Counter using JK flip flops]](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#4-bit-synchronous-counter-using-jk-flip-flops) 
+
+[[5-Bit Ring counter using D flip flops]](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#5-bit-ring-counter-using-d-flip-flops)
+
+[[a basic CUFE assignment using logic gates to implement a function.]](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#a-basic-cufe-assignment-using-logic-gates-to-implement-a-function)
+
+[a basic 2 bit counter using JK ff](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#a-basic-2-bit-counter-using-jk-ff)
+
+[4*4 memory !](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/README.md#44-memory-)
+
+[Gray-counter?!](https://github.com/Mahmoussam/Some_Digital_Logic/edit/master/README.md#gray-counter)
 
 
 ## 4-Bit Synchronous Counter using JK flip flops
