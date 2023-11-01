@@ -18,3 +18,18 @@ Using :
   -the main clock ,clk_0 , is achieved using 555 providing ~0.5 HZ
 ```
 ![](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/digital%203.jpg)
+# 4*4 memory !
+an exercise given by my favorite book <can you guess?>
+the circuit file is provided as well (logisim)
+The idea is to use a decoder to enable the desired word at the memory grid , output its content on the output pins,
+and using "write enable" we can write desired input into the activated 4-bit D flip flops word.
+ofc the whole thing is synchronized with the clock. a video may be provided soon.
+![](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/Screenshot%202023-10-31%20203640.png)
+a 4-bit gray code counter based on
+```G=B xor (B>>1)``
+where xor is the bitwise `xor` operation and `>>` is the right shift bitwise operation
+I got the idea from K-maps using gray codes for numbering.
+please note that J-K used at this circuit is falling edge triggered.
+circuit file is also provided "D.
+![](https://github.com/Mahmoussam/Some_Digital_Logic/blob/master/Screenshot%202023-11-01%20123302.png)
+
